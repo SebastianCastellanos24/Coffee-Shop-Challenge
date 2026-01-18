@@ -40,7 +40,7 @@ cd Coffee-Shop-Challenge
 npm install
 
 cp .env.example .env
-VITE_SUPABASE_URL=https://lhzkecvjajxobuqlvzxi.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxoemtlY3ZqYWp4b2J1cWx2enhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg2OTU3MTQsImV4cCI6MjA4NDI3MTcxNH0.UVuIehsMeWu1kXVU_PqWPQpHHsB5f_srkgSj7CFCm3I
+VITE_SUPABASE_URL=VITE_SUPABASE_URL
+VITE_SUPABASE_ANON_KEY=VITE_SUPABASE_URL
 
 npm run dev
